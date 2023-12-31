@@ -1,7 +1,5 @@
-    <h3><b>ReelsBot</b></h3>
-    <p>Instagram Reels Downloader bot</p>
-<h3 align=left>
-    <img align="left" src="https://www.pngmart.com/files/13/Instagram-Logo-Transparent-Images-PNG.png" width=120 />
+# Instagram Reels Downloader bot
+    <img align="center" src="https://www.pngmart.com/files/13/Instagram-Logo-Transparent-Images-PNG.png" width=120 />
 
 </h3>
 <br><br>
@@ -9,11 +7,11 @@
 # Installation
 + Clone the repository
 ```bash
-git clone https://github.com/Kourva/ReelsBot
+git clone https://github.com/bot-developer03/ReelXrobot
 ```
 + Navigate to files directory
 ```bash
-cd ReelsBot
+cd ReelXrobot
 ```
 + Give Execute permission to main file
 ```bash
@@ -35,7 +33,7 @@ python bot.py
 ```
 #### One line command
 ```bash
-git clone https://github.com/Kourva/ReelsBot && cd ReelsBot && chmod +x bot.py && pip install -r requirements.txt
+git clone https://github.com/bot-developer03/ReelXrobot && cd ReelXrobot && chmod +x bot.py && pip install -r requirements.txt
 ```
 > You still need to configure your **token**
 
@@ -46,11 +44,11 @@ You can also install and run your file with docker. <br>
 If you don't have Docker installed, you can download and install it from the official Docker website: [Docker Installation Guide](https://docs.docker.com/get-docker/)
 + Clone the repository
 ```bash
-git clone https://github.com/Kourva/ReelsBot
+git clone https://github.com/bot-developer03/ReelXrobot 
 ```
 + Navigate to files directory
 ```bash
-cd ReelsBot
+cd ReelXrobot 
 ``` 
 + Build the Docker Image
 ```bash
