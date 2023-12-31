@@ -1,7 +1,8 @@
-<h3 align=left>
-    <img align="left" src="https://www.pngmart.com/files/13/Instagram-Logo-Transparent-Images-PNG.png" width=120 />
     <h3><b>ReelsBot</b></h3>
     <p>Instagram Reels Downloader bot</p>
+<h3 align=left>
+    <img align="left" src="https://www.pngmart.com/files/13/Instagram-Logo-Transparent-Images-PNG.png" width=120 />
+
 </h3>
 <br><br>
 
