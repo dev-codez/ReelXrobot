@@ -1,10 +1,6 @@
 # Instagram Reels Downloader bot
 
 <img align="right"src="https://www.pngmart.com/files/13/Instagram-Logo-Transparent-Images-PNG.png"/>
-
-</h3>
-<br><br>
-
 # Installation
 + Clone the repository
 ```bash
